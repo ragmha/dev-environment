@@ -1,17 +1,15 @@
 # :bowtie: dev-environment
-> JavaScript development environment 
+
+> JavaScript development environment
 
 ## Getting Started 🚀
 
-* ```$ git clone https://github.com/ragmha/dev-environment```
+- `$ git clone https://github.com/ragmha/dev-environment`
 
-* ```$ yarn```
+- `$ yarn`
 
-* ```$ yarn start -s```
-
-
-
-
+- `$ yarn start -s`
 
 ## License
-[MIT](./license) © [Raghib Hasan](http://raghibm.com/)
+
+[MIT](./license) © [Raghib Hasan](https://raghib.io/)
